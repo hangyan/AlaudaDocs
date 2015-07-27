@@ -20,3 +20,5 @@
 * [浏览镜像](browser-images.md)
 * [镜像加速器](accelerator.md)
 * [用户设置](users.md)
+* [CLI命令文档](cli/introduce.md)
+  * [登陆](cli/login.md)
